@@ -3,7 +3,5 @@ __pycache__/
 *.py[cod]
 .streamlit/secrets.toml
 data/
-work/
-*.pkl
 *.pickle
 *.joblib
